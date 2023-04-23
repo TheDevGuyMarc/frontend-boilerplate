@@ -61,6 +61,18 @@ This template is designed for frontend related projects. It is not limited to a 
 - Complete Typescript implementation
 - Workflow automation where possible
 
+**Roadmap**
+
+- [ ] Add more documentation
+- [ ] Add [sourcemaps](https://www.npmjs.com/package/gulp-sourcemaps)
+- [ ] Add [gulp modernizer](https://www.npmjs.com/package/gulp-modernizr)
+- [ ] Add [cache-busting](https://www.npmjs.com/package/gulp-buster)
+- [ ] Add [gulp-notify](https://www.npmjs.com/package/gulp-notify)
+- [ ] Add [gulp-purgecss](https://www.npmjs.com/package/gulp-purgecss)
+- [ ] Add [caching](https://www.npmjs.com/package/gulp-cache) to image-optimization task like this [example](https://gist.github.com/lmonk72/0c37198e341902b9b617d2a20a5d501c)
+- [ ] Add github workflows (CI)
+- [ ] Add boilerplate code for scss and typescript
+
 ## Structure
 
 ```text

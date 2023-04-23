@@ -1,0 +1,31 @@
+{
+    "root":        "./",
+    "src":          "src/",
+    "scss":         "src/scss/",
+    "typescript":   "src/typescript/",
+    "media":        "src/media/",
+    "html":         "src/html/",
+    "fonts":        "src/fonts/",
+    "json":         "src/json/",
+    "test":         "test/",
+    "dest" : {
+        "build":    "build/",
+        "assets":   "build/assets/",
+        "css":      "build/assets/css/",
+        "js":       "build/assets/js/",
+        "fonts":    "build/assets/fonts/",
+        "img":      "build/assets/images/",
+        "docs":     "docs/"
+    },
+    "autoprefixer_browsers": [
+        "ie >= 10",
+        "ie_mob >= 10",
+        "ff >= 30",
+        "chrome >= 34",
+        "safari >= 7",
+        "opera >= 23",
+        "ios >= 7",
+        "android >= 4.4",
+        "bb >= 10"
+      ]
+}
