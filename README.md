@@ -1,11 +1,11 @@
-![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/TheDevGuyMarc/Frontend-Boilerplate/ci.yml?style=for-the-badge)
-![Libraries.io dependency status for GitHub repo](https://img.shields.io/librariesio/github/TheDevGuyMarc/Frontend-Boilerplate?style=for-the-badge)
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/TheDevGuyMarc/Frontend-Boilerplate?style=for-the-badge)
-![GitHub all releases](https://img.shields.io/github/downloads/TheDevGuyMarc/Frontend-Boilerplate/total?style=for-the-badge)
-![GitHub issues](https://img.shields.io/github/issues/TheDevGuyMarc/Frontend-Boilerplate?style=for-the-badge)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/TheDevGuyMarc/Frontend-Boilerplate?style=for-the-badge)
-![GitHub](https://img.shields.io/github/license/TheDevGuyMarc/Frontend-Boilerplate?style=for-the-badge)
-![GitHub package.json version](https://img.shields.io/github/package-json/v/TheDevGuyMarc/Frontend-Boilerplate?style=for-the-badge)
+![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/TheDevGuyMarc/frontend-boilerplate/ci.yml?style=for-the-badge)
+![Libraries.io dependency status for GitHub repo](https://img.shields.io/librariesio/github/TheDevGuyMarc/frontend-boilerplate?style=for-the-badge)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/TheDevGuyMarc/frontend-boilerplate?style=for-the-badge)
+![GitHub all releases](https://img.shields.io/github/downloads/TheDevGuyMarc/frontend-boilerplate/total?style=for-the-badge)
+![GitHub issues](https://img.shields.io/github/issues/TheDevGuyMarc/frontend-boilerplate?style=for-the-badge)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/TheDevGuyMarc/frontend-boilerplate?style=for-the-badge)
+![GitHub](https://img.shields.io/github/license/TheDevGuyMarc/frontend-boilerplate?style=for-the-badge)
+![GitHub package.json version](https://img.shields.io/github/package-json/v/TheDevGuyMarc/frontend-boilerplate?style=for-the-badge)
 ![Maintenance](https://img.shields.io/maintenance/yes/2023?style=for-the-badge)
 ![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
 
@@ -16,9 +16,9 @@
     Complete project boilerplate for frontend related projects
     <br />
     <br />
-    <a href="https://github.com/TheDevGuyMarc/Frontend-Boilerplate/issues">Report Bug</a>
+    <a href="https://github.com/TheDevGuyMarc/frontend-boilerplate/issues">Report Bug</a>
     ·
-    <a href="https://github.com/TheDevGuyMarc/Frontend-Boilerplate/issues">Request Feature</a>
+    <a href="https://github.com/TheDevGuyMarc/frontend-boilerplate/issues">Request Feature</a>
   </p>
 </div>
 
@@ -95,7 +95,7 @@ This template is designed for frontend related projects. It is not limited to a 
 
 ## Getting Started
 
-To start a new project with this template you can either just clone this repository, use this [template](https://github.com/TheDevGuyMarc/Frontend-Boilerplate/generate) or you can use the [yeoman generator]() written for it.
+To start a new project with this template you can either just clone this repository, use this [template](https://github.com/TheDevGuyMarc/frontend-boilerplate/generate) or you can use the [yeoman generator]() written for it.
 
 ### Pre-Requisites
 
