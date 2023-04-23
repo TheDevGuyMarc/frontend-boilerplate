@@ -2,7 +2,7 @@
   "name": "gulp-frontend-boilerplate",
   "description": "Frontend Template for Gulp, Sass and Typescript",
   "version": "1.0.0",
-  "license": "MIT",
+  "license": "LGPL-3.0",
   "author": {
     "name": "Marc Hannappel",
     "email": "thedevguymarc@gmail.com",
